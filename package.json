@@ -1,0 +1,28 @@
+{
+  "name": "e-com-backend",
+  "version": "1.0.0", 
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "back": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakthimurugesanr2/E-com-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakthimurugesanr2/E-com-Backend/issues"
+  },
+  "homepage": "https://github.com/sakthimurugesanr2/E-com-Backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "mongoose": "^8.20.4",
+    "nodemon": "^3.1.11"
+  }
+}
